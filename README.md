@@ -57,7 +57,7 @@ They are **not intended for production or real-world security systems**.
 **Hariom Mewada**  
 Cyber Security | Cryptography | C++ Developer  
 
-🔗 GitHub: https://github.com/YOUR_USERNAME
+🔗 GitHub: https://github.com/hmewada774
 
 ⭐ If this repository helps you, please **star** it!
 
@@ -65,3 +65,4 @@ Cyber Security | Cryptography | C++ Developer
 
 ## 📌 Keywords
 cryptography algorithms in c++, encryption algorithms, cybersecurity projects, classical ciphers, rsa cpp, ecc cpp, symmetric encryption
+
